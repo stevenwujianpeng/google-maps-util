@@ -1,7 +1,7 @@
 {
-  "name": "google-maps-util",
-  "version": "1.0.0",
-  "main": "dist/index.js",
+  "name": "@fe-steven/google-maps-util",
+  "version": "1.0.1",
+  "main": "index.js",
   "repository": "https://github.com/stevenwujianpeng/google-maps-util.git",
   "author": "吴建鹏 <jianpeng.wu@geely.com>",
   "license": "MIT",
