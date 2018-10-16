@@ -1,12 +1,12 @@
 {
   "name": "google-maps-util",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dist/index.js",
   "repository": "https://github.com/stevenwujianpeng/google-maps-util.git",
   "author": "吴建鹏 <jianpeng.wu@geely.com>",
   "license": "MIT",
   "scripts": {
-    "start": "webpack --config webpack.config.js"
+    "build": "webpack --config webpack.config.js"
   },
   "dependencies": {
     "webpack": "^4.20.2",
