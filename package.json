@@ -6,8 +6,7 @@
   "author": "吴建鹏 <jianpeng.wu@geely.com>",
   "license": "MIT",
   "scripts": {
-    "build": "webpack --config webpack.config.js",
-    "prepublish": "node_modules/babel-cli/bin/babel.js src --out-dir lib"
+    "build": "node_modules/babel-cli/bin/babel.js src --out-dir lib"
   },
   "dependencies": {
     "babel-cli": "^6.26.0",
